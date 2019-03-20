@@ -45,5 +45,6 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 run shot: <br/>
+![lab1 run shot](https://i.loli.net/2019/03/20/5c91ee9103b9a.jpg)
 ![lab1 run shot](https://i.loli.net/2019/03/15/5c8baf1462fe6.jpg)
 
